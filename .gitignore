@@ -14,3 +14,13 @@ wheels/
 .env
 API KEYS.txt
 *.txt
+
+# Added by Antigravity CLI
+*.pyc
+.env.*
+.env.local
+.venv/
+downloader.db
+emails.db
+env/
+venv/
