@@ -9,3 +9,8 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Credentials/Secrets
+.env
+API KEYS.txt
+*.txt
